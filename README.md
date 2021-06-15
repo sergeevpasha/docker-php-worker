@@ -1,3 +1,6 @@
+[![CodeFactor](https://www.codefactor.io/repository/github/sergeevpasha/docker-php-worker/badge)](https://www.codefactor.io/repository/github/sergeevpasha/docker-php-worker)
+[![Docker Image CI](https://github.com/sergeevpasha/docker-php-worker/actions/workflows/dockerimage.yml/badge.svg)](https://github.com/sergeevpasha/docker-php-worker/actions/workflows/dockerimage.yml)
+
 # PHP Worker
 
 Built on PHP 8.0 image and is used for php based services
